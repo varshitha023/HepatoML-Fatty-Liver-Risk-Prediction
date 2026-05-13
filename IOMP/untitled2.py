@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 10 09:49:42 2026
-
-@author: CHANDANA SAI
-"""
-
 import streamlit as st
 import pickle
 import pandas as pd
